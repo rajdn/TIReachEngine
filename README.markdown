@@ -1,4 +1,4 @@
-# TIReachEngine: 
+# TIReachEngine
 ### A complete Objective-C wrapper for the Halo: Reach API. Mac and iOS compatible.
 
 ## Usage
@@ -7,7 +7,7 @@ See the "ReachEngine" app for details on usage. Essentially, the engine will ret
 
 ## License
 
-Copyright (c) 2010 Tom Irving. All rights reserved.
+Copyright (c) 2011 Tom Irving. All rights reserved.
 
 Redistribution and use in source and binary forms, with or without modification, are permitted provided that the following conditions are met:
 
